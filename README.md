@@ -7,7 +7,7 @@
 <h2 align="center">Hi, I'm Rushikesh 👋</h2>
 
 <h3 align="center">
-Final-Year Computer Science Engineering Student | AI/ML | GenAI | RAG | Agentic AI
+Third-Year Computer Science Engineering Student | AI/ML | GenAI | RAG | Agentic AI
 </h3>
 
 <p align="center">
