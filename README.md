@@ -15,11 +15,14 @@
 <h3 align="center">
 AI/ML • Data Science • GenAI • Software Engineering
 </h3>
+<img src="https://github-profile-trophy.vercel.app/?username=Rushi9234&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 <p align="center">
-  <a href="mailto:rushikedar40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+📧 <b>Email:</b> rushikedar40@gmail.com &nbsp; • &nbsp;
+📍 Pune, Maharashtra, India
+</p>
+<p align="center">
+
   <a href="https://www.linkedin.com/in/rushikeshkedar1914/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -164,7 +167,13 @@ Data science project analyzing air quality and weather patterns across global ci
 </p>
 
 ---
+## Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rushi9234/Rushi9234/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
 ## Current Focus
 
 ```txt
