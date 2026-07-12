@@ -265,18 +265,30 @@ Multi-city **spatial-temporal pipeline** — gradient-boosted PM2.5 regressors p
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ CODING PROFILE ═══════════════════ -->
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Rushikesh_kedar/">
+  <img src="./assets/leetcode.png" width="500" />
+</a>
+
+</div>
+
+<!--
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Coding Profile
 
 <div align="center">
 
 <!-- Live LeetCode card. If blank, the public server is rate-limiting. -->
+<!--
 <a href="https://leetcode.com/u/Rushikesh_kedar/">
   <img src="https://leetcard.jacoblin.cool/Rushikesh_kedar?theme=dark&amp;font=JetBrains%20Mono&amp;ext=heatmap" width="500" />
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" /> 
+-->
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 ## 📊 GitHub Stats
