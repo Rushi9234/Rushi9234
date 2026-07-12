@@ -298,12 +298,9 @@ Multi-city **spatial-temporal pipeline** — gradient-boosted PM2.5 regressors p
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rushi9234&amp;show_icons=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=c9d1d9&amp;bg_color=0B1120&amp;cache_seconds=86400" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi9234&amp;layout=compact&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=c9d1d9&amp;bg_color=0B1120&amp;langs_count=8&amp;cache_seconds=86400" />
 
-<!--
-  Snake needs the GitHub Action in SETUP_GUIDE.md Part A. Until it runs,
-  this URL 404s, so it is commented out. Uncomment after the Action runs:
 <br/>
+
 <img src="https://raw.githubusercontent.com/Rushi9234/Rushi9234/output/github-contribution-grid-snake-dark.svg" width="100%" />
--->
 
 </div>
 
