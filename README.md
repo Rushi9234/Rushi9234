@@ -270,13 +270,9 @@ Multi-city **spatial-temporal pipeline** — gradient-boosted PM2.5 regressors p
 <div align="center">
 
 <!-- Live LeetCode card. If blank, the public server is rate-limiting. -->
-<img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/Rushikesh_kedar/?theme=dark&amp;font=JetBrains%20Mono&amp;ext=heatmap" width="500" />
-
-<!--
-  EDIT: replace YOUR_LEETCODE_USERNAME with your real LeetCode handle.
-  Prefer your screenshot instead? Put it at assets/leetcode.png and use:
-  <img src="./assets/leetcode.png" width="500" />
--->
+<a href="https://leetcode.com/u/Rushikesh_kedar/">
+  <img src="https://leetcard.jacoblin.cool/Rushikesh_kedar?theme=dark&amp;font=JetBrains%20Mono&amp;ext=heatmap" width="500" />
+</a>
 
 </div>
 
