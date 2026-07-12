@@ -1,21 +1,20 @@
 <!--
   ═══════════════════════════════════════════════════════════════════
    GitHub Profile README · Rushi9234 · Rushikesh Baban Kedar
-   Structure inspired by @imjayeshjadhav · content from resume+portfolio
+   Identity: AI/ML & Data Science · GenAI · RAG · Agents
   ═══════════════════════════════════════════════════════════════════
-  XML-SAFETY: GitHub parses README as XML. Any literal "&" inside an
-  <img src="..."> breaks it ("Unexpected token inside entity"). Every
-  "&" in a URL below is written as "&amp;". Do NOT hand-change them back
-  to "&" or the page will fail to render (that was your earlier error).
+  XML-SAFETY: GitHub parses README as XML. A literal "&" inside an
+  <img src="..."> breaks it. Every "&" in a URL is written "&amp;".
+  Do NOT change them back to "&". Also: HTML comments CANNOT be nested.
 -->
 
 <!-- ═══════════════════ HERO ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1120,45:1E3A8A,100:06B6D4&amp;height=230&amp;section=header&amp;text=Rushikesh%20Baban%20Kedar&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=GenAI%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Platform%20Engineer&amp;descSize=18&amp;descAlignY=56&amp;animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1120,45:1E3A8A,100:06B6D4&amp;height=230&amp;section=header&amp;text=Rushikesh%20Baban%20Kedar&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=AI%2FML%20%26%20Data%20Science%20%C2%B7%20GenAI%20%C2%B7%20RAG%20%C2%B7%20Agents&amp;descSize=18&amp;descAlignY=56&amp;animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;lines=GenAI+%7C+Distributed+Systems+%7C+Platform+Engineer;Building+multi-agent+execution+graphs+%26+RAG+systems;National+Finalist+%40+Insightfy+6.0%2C+IIM+Lucknow;Final-year+CSE+%40+MIT+AOE%2C+Pune" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;lines=AI%2FML+%26+Data+Science+Engineer;GenAI+%7C+RAG+Pipelines+%7C+Agentic+Systems;National+Finalist+%40+Insightfy+6.0%2C+IIM+Lucknow;Final-year+CSE+%40+MIT+AOE%2C+Pune" />
 </a>
 
 <br/>
@@ -29,16 +28,16 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-**Final-year Computer Science Engineering** student at **MIT Academy of Engineering, Pune** (CGPA 7.52 · Sem-6 SGPA 8.0). My work centers on **systems thinking and autonomous automation** — I build frameworks that interact with live transaction feeds, high-throughput asynchronous multi-agent nodes, and vectorized enterprise graphs.
+**Final-year Computer Science Engineering** student at **MIT Academy of Engineering, Pune** (CGPA 7.52 · Sem-6 SGPA 8.0), focused on **AI/ML, Data Science and Generative AI**. I build intelligent, data-driven systems — from agentic RAG pipelines and explainable ML models to end-to-end analytics that turn messy data into decisions.
 
-**National Finalist at Insightfy 6.0, IIM Lucknow** — out-executed **5,000+ teams** to reach the Grand Finale, ranking **1st nationally** in Data Analysis and **2nd nationally** in the Case Study round. I focus on production resiliency: managing state-graph conditions, mitigating LLM hallucination, and engineering mid-execution failovers under high load.
+**National Finalist at Insightfy 6.0, IIM Lucknow** — out-executed **5,000+ teams** to reach the Grand Finale, ranking **1st nationally** in Data Analysis and **2nd nationally** in the Case Study round. I enjoy turning open-ended problems into shipped, explainable products.
 
-**🎯 Core Expertise**
-- 🤖 **GenAI & Agents** — multi-agent orchestration, LangGraph state machines, RAG (FAISS)
-- ⚡ **Distributed Backends** — async FastAPI clusters, failover logic, high-availability streaming
+**🎯 Core Focus**
+- 🤖 **GenAI & Agents** — RAG pipelines, LangGraph state machines, multi-agent orchestration
 - 🧠 **Machine Learning** — gradient boosting, computer vision (YOLOv8, ViT), explainability (SHAP)
-- 📊 **Data Science** — EDA, statistical modeling, forecasting & data storytelling
-- 🌐 **Full-stack delivery** — React / Next.js frontends shipped to production
+- 📊 **Data Science & Analytics** — EDA, statistical modeling, forecasting, data storytelling
+- ⚡ **ML Engineering** — FastAPI services, vector DBs (FAISS), model deployment
+- 🌐 **Full-stack delivery** — React / Next.js frontends for AI products
 
 <br clear="right"/>
 
@@ -48,20 +47,20 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"> Technical Arsenal
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2500&amp;pause=600&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=640&amp;lines=Python+%7C+SQL+%7C+Java+%7C+C%2B%2B;LangGraph+%7C+LangChain+%7C+RAG+%7C+FAISS;PyTorch+%7C+YOLOv8+%7C+ViT+%7C+XGBoost;FastAPI+%7C+React+%7C+Docker+%7C+AWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2500&amp;pause=600&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=640&amp;lines=Python+%7C+SQL+%7C+Java+%7C+C%2B%2B;LangGraph+%7C+LangChain+%7C+RAG+%7C+FAISS;PyTorch+%7C+YOLOv8+%7C+ViT+%7C+XGBoost;Pandas+%7C+Scikit-Learn+%7C+Power+BI+%7C+FastAPI" />
 </div>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**AI Platforms &amp; Orchestration**
+**GenAI &amp; Agents**
 
 ```python
 genai = {
     "orchestration": ["LangGraph", "LangChain"],
     "retrieval":     ["RAG", "FAISS Vector DB"],
-    "agents":        ["Async multi-agent nodes"],
+    "agents":        ["Multi-agent workflows"],
     "models":        ["Hugging Face", "LLM APIs"],
 }
 ```
@@ -86,27 +85,27 @@ ml = {
 <tr>
 <td valign="top" width="50%">
 
-**Backend &amp; Infrastructure**
+**Data Science &amp; Analytics**
 
-```javascript
-const backend = {
-  apis:       ["FastAPI", "Flask", "REST"],
-  async:      ["Async handlers", "Failover"],
-  cloud:      ["AWS (EC2/S3)", "Docker"],
-  frontend:   ["React", "Next.js"],
-};
+```python
+data_science = {
+    "wrangling": ["Pandas", "NumPy"],
+    "analysis":  ["EDA", "Statistical modeling",
+                  "Time-series forecasting"],
+    "viz":       ["Matplotlib", "Plotly", "Power BI"],
+}
 ```
 
 </td>
 <td valign="top" width="50%">
 
-**Languages &amp; Databases**
+**Engineering &amp; Tools**
 
 ```yaml
 languages: [Python, SQL, Java, C++]
+backend:   [FastAPI, Flask, REST APIs]
 databases: [MongoDB, MySQL, SQLite]
-data:      [Pandas, NumPy, Power BI]
-core_cs:   [DSA, OOP, System Design]
+tools:     [Git, Docker, AWS, Jupyter]
 ```
 
 </td>
@@ -122,7 +121,7 @@ core_cs:   [DSA, OOP, System Design]
 <!-- ═══════════════════ FEATURED PROJECT (FLAGSHIP) ═══════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="28"> Flagship Project
 
-### 📈 InvestEdge — Distributed AI Financial Intelligence OS
+### 📈 InvestEdge — AI Financial Intelligence Platform
 
 <p>
 <img src="https://img.shields.io/badge/9_Async_AI_Agents-6D28D9?style=for-the-badge" />
@@ -130,7 +129,7 @@ core_cs:   [DSA, OOP, System Design]
 <img src="https://img.shields.io/badge/Live_Deployment-06B6D4?style=for-the-badge" />
 </p>
 
-A distributed financial analytics system powered by **9 specialized asynchronous AI agents** coordinating technical analysis, fundamental scanning, and real-time market-regime detection. Built an async multi-key API client with **automated mid-loop failover** inside a FastAPI backend for production-grade, high-availability streaming, and a context-aware **News RAG agent** using FAISS similarity search to eliminate hallucinations during synthesis.
+An AI-powered financial-intelligence platform driven by **9 specialized asynchronous AI agents** coordinating technical analysis, fundamental scanning, and real-time market-regime detection. Built an async multi-key API client with **automated failover** inside a FastAPI backend for high-availability streaming, and a context-aware **News RAG agent** using FAISS similarity search to eliminate hallucinations during synthesis.
 
 **Stack:** Python · FastAPI · React · RAG · FAISS · LLM APIs · yfinance · Vercel
 
@@ -265,30 +264,17 @@ Multi-city **spatial-temporal pipeline** — gradient-boosted PM2.5 regressors p
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ CODING PROFILE ═══════════════════ -->
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Rushikesh_kedar/">
-  <img src="./assets/leetcode.png" width="500" />
-</a>
-
-</div>
-
-<!--
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Coding Profile
 
 <div align="center">
 
-<!-- Live LeetCode card. If blank, the public server is rate-limiting. -->
-<!--
 <a href="https://leetcode.com/u/Rushikesh_kedar/">
   <img src="https://leetcard.jacoblin.cool/Rushikesh_kedar?theme=dark&amp;font=JetBrains%20Mono&amp;ext=heatmap" width="500" />
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" /> 
--->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 ## 📊 GitHub Stats
@@ -297,6 +283,7 @@ Multi-city **spatial-temporal pipeline** — gradient-boosted PM2.5 regressors p
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rushi9234&amp;theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rushi9234&amp;theme=github_dark" />
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/Rushi9234/Rushi9234/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -312,19 +299,21 @@ Multi-city **spatial-temporal pipeline** — gradient-boosted PM2.5 regressors p
 class Rushikesh2026:
     currently_mastering = {
         "genai":    ["Agentic architecture", "Advanced RAG", "LLM evaluation"],
-        "systems":  ["System design", "Scalable async APIs", "Vector DBs"],
-        "ml":       ["Model deployment", "MLOps fundamentals"],
+        "ml":       ["Deep learning", "Model deployment", "MLOps fundamentals"],
+        "data":     ["Advanced SQL", "Feature engineering", "Forecasting"],
     }
 
     eager_to_learn = {
-        "cloud":    ["AWS in production", "CI/CD", "Docker orchestration"],
-        "advanced": ["LLM fine-tuning", "Guardrails & safety", "Distributed training"],
+        "engineering": ["System design", "Scalable APIs", "Vector DBs"],
+        "cloud":       ["AWS in production", "CI/CD", "Docker orchestration"],
+        "advanced":    ["LLM fine-tuning", "Guardrails and evaluation"],
     }
 
     goals = [
-        "🏗️ Ship production-grade distributed AI systems end-to-end",
-        "🌐 Contribute to open-source AI/ML tooling",
-        "🎯 Land an AI Engineering / Platform role",
+        "Ship production-grade AI/ML systems end-to-end",
+        "Contribute to open-source AI/ML tooling",
+        "Deepen data-science and analytics craft",
+        "Land an AI Engineering / Data Science role",
     ]
 ```
 
@@ -341,15 +330,15 @@ class Rushikesh2026:
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=600&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;lines=Open+to+AI+Engineering+%26+Platform+roles;Let's+build+something+intelligent+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=600&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;lines=Open+to+AI%2FML+%26+Data+Science+roles;Let's+build+something+intelligent+together!" />
 
 </div>
 
 ### 🎯 The Philosophy
 
-> *"Good systems are not built fast — they are built thoughtfully. Build scalable today, optimize for tomorrow."*
+> *"Learning by building — one real-world project at a time. Build thoughtfully, optimize for tomorrow."*
 
-**When not coding:** reading AI papers · analyzing datasets for fun · following markets &amp; competing in case competitions
+**When not coding:** reading AI papers · analyzing datasets for fun · competing in case competitions
 
 **Fun fact:** *I spend more time making models explainable than making them accurate — a prediction nobody trusts is just a guess.*
 
