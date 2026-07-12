@@ -1,110 +1,91 @@
 <!--
-  ============================================================
-  GitHub Profile README  —  Rushi9234 (Rushikesh Baban Kedar)
-  ============================================================
-  NOTE: GitHub strips <style>, CSS classes and <script>. All motion
-  below comes from animated-SVG / GIF endpoints, which ARE supported.
-  Replace the placeholders marked  <-- EDIT  before pushing.
+  ══════════════════════════════════════════════════════════════
+   GitHub Profile README · Rushi9234 · Rushikesh Baban Kedar
+  ══════════════════════════════════════════════════════════════
+  DESIGN NOTE (read once):
+  GitHub strips CSS + JS from markdown. Only IMAGE endpoints animate.
+  This file uses ONLY reliable endpoints that render every time:
+    · capsule-render      (headers/footers/dividers)  — rock solid
+    · readme-typing-svg   (typing tagline)            — reliable
+    · shields.io          (badges)                    — rock solid
+    · skillicons.dev      (tech icons)                — rock solid
+  The GitHub-stats / streak / trophy cards from the old version are
+  INTENTIONALLY REMOVED — their public servers rate-limit and show
+  blank boxes. To get stats reliably, use the GitHub Action method
+  in the separate SETUP guide (generates the cards inside your repo).
+  Same goes for the snake: it needs the Action to exist first.
 -->
 
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ═══════════════════ HERO ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=210&section=header&text=Rushikesh%20Baban%20Kedar&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Data%20Science%20%C2%B7%20GenAI%20%26%20Agents&descSize=17&descAlignY=54&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,40:1E3A8A,100:06B6D4&height=230&section=header&text=Rushikesh%20Baban%20Kedar&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Data%20Science%20%C2%B7%20GenAI%20%C2%B7%20Agents&descSize=18&descAlignY=57&animation=fadeIn" width="100%" />
 
-</div>
-
-<!-- ===================== TYPING TAGLINE ===================== -->
-<div align="center">
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=820&lines=Third-Year+Computer+Science+Engineering+Student;Building+production+AI%2FML+%26+Data+Science+systems;GenAI+%C2%B7+RAG+%C2%B7+LangGraph+Agents+%C2%B7+Computer+Vision;National+Finalist+%40+Insightfy+6.0%2C+IIM+Lucknow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&height=45&lines=Final-year+Computer+Science+Engineering+student;Building+production+AI%2FML+%26+Data+Science+systems;GenAI+%C2%B7+RAG+%C2%B7+LangGraph+Agents+%C2%B7+Computer+Vision;National+Finalist+%40+Insightfy+6.0%2C+IIM+Lucknow" />
 </a>
 
-</div>
+<br/>
 
-<!-- ===================== CONTACT + SOCIAL ===================== -->
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rushikeshkedar1914/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://rushi9234.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:rushikedar40@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Rushi9234&label=Profile+Views&color=06B6D4&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/rushikeshkedar1914/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://rushi9234.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="mailto:rushikedar40@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Rushi9234&label=Profile%20views&color=06B6D4&style=for-the-badge" />
 
 </div>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
-## &nbsp;💡 About Me
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" />
+  &nbsp;About Me
+</h2>
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/Rushi9234/Rushi9234/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+> **Final-year Computer Science Engineering** student at **MIT Academy of Engineering, Pune**, building real-world **AI/ML, Data Science and Generative-AI** systems — from agentic RAG pipelines to computer-vision underwriting and explainable ML.
 
-I'm a third-year **Computer Science Engineering** student at **MIT Academy of Engineering, Pune**, focused on building real-world **AI/ML, Data Science and GenAI** systems.
+```yaml
+name:         Rushikesh Baban Kedar
+role:         AI / ML Engineer · Data Scientist (in the making)
+education:    B.Tech CSE — MIT Academy of Engineering, Pune  ·  CGPA 7.52
+focus:        GenAI · RAG · LangGraph Agents · Computer Vision · Analytics
+achievements: National Finalist @ Insightfy 6.0, IIM Lucknow
+              1st nationally — Data Analysis Round
+              2nd nationally — Case Study Round
+currently:    Building agentic AI systems & shipping end-to-end projects
+open_to:      AI Engineering · Data Science · SDE roles & internships
+```
 
-- 🔭 Building across **AI agents, financial intelligence, computer vision & analytics**
-- 🌱 Currently deep-diving **GenAI · RAG · LangGraph · Agentic workflows**
-- 🏆 **National Finalist** — Insightfy 6.0, IIM Lucknow
-- 🥇 Ranked **1st nationally** (Data Analysis) & **🥈 2nd** (Case Study)
-- 🎯 Interested in **AI Engineering, Data Science & product-based development**
-- 📫 Reach me — **rushikedar40@gmail.com**
+<br/>
 
-<br clear="right"/>
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:06B6D4&height=3&width=100%25§ion=header" width="100%" />
 
----
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## &nbsp;🚀 Featured Projects
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+<h2>🚀&nbsp;Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏪 KiranaFlow AI
-AI-powered **credit underwriting** for kirana stores using computer vision, geo-intelligence & ML — turns a storefront photo + location into a risk score.
+#### 🏪&nbsp; KiranaFlow AI
+AI-powered **credit underwriting** for kirana stores — turns a storefront photo + geolocation into a risk score using computer vision, geo-intelligence and gradient-boosted ML.
 
-`FastAPI` · `YOLOv8` · `XGBoost` · `SHAP` · `OSMnx` · `Next.js`
+<code>FastAPI</code> <code>YOLOv8</code> <code>XGBoost</code> <code>SHAP</code> <code>OSMnx</code> <code>Next.js</code>
 
-[**→ Repository**](https://github.com/AB-1817/KiranaFlow-AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AutoStream
-Conversational **agentic workflow** that classifies intent, answers via RAG, and captures leads — built on a LangGraph state machine with turn-level memory.
-
-`LangGraph` · `Gemini 2.5` · `FAISS` · `RAG` · `Python`
-
-[**→ Repository**](https://github.com/Rushi9234/autostream-agent)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📈 InvestEdge
-AI **financial-intelligence platform** for market insights, portfolio diagnostics and contextual financial analysis.
-
-`FastAPI` · `React` · `RAG` · `LLM APIs` · `Python`
-
-[**→ Repository**](https://github.com/AB-1817/InvestEdge)
+<a href="https://github.com/AB-1817/KiranaFlow-AI"><img src="https://img.shields.io/badge/View%20Repo-06B6D4?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ AI Image Caption Generator
-Transformer image-captioning pipeline pairing a **ViT** encoder with a **GPT-2** decoder, served through a Gradio UI.
+#### 🤖&nbsp; AutoStream
+Conversational **agentic workflow** on a LangGraph state machine — classifies intent, answers via RAG over a knowledge base, and captures leads with turn-level memory.
 
-`ViT` · `GPT-2` · `Hugging Face` · `PyTorch` · `Gradio`
+<code>LangGraph</code> <code>Gemini 2.5</code> <code>FAISS</code> <code>RAG</code> <code>Python</code>
 
-[**→ Repository**](https://github.com/Rushi9234/AI-Image-Caption-Generator-ViT-GPT2)
+<a href="https://github.com/Rushi9234/autostream-agent"><img src="https://img.shields.io/badge/View%20Repo-06B6D4?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -112,22 +93,22 @@ Transformer image-captioning pipeline pairing a **ViT** encoder with a **GPT-2**
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 CraveConnect
-ML pipeline predicting **customer membership upgrades** with class-imbalance handling and SHAP explainability.
+#### 📈&nbsp; InvestEdge
+AI **financial-intelligence platform** delivering market insights, portfolio diagnostics and contextual financial analysis through an LLM-backed RAG core.
 
-`XGBoost` · `SHAP` · `SMOTE` · `Scikit-learn`
+<code>FastAPI</code> <code>React</code> <code>RAG</code> <code>LLM APIs</code> <code>Python</code>
 
-[**→ Repository**](https://github.com/Rushi9234/Craveconnect-membership-prediction)
+<a href="https://github.com/AB-1817/InvestEdge"><img src="https://img.shields.io/badge/View%20Repo-06B6D4?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 Global Air Quality Analytics
-End-to-end **data-science pipeline** on global air-quality & weather — EDA, regression, forecasting and association-rule mining for PM2.5.
+#### 🖼️&nbsp; AI Image Caption Generator
+Transformer image-captioning pipeline pairing a **ViT** encoder with a **GPT-2** decoder, served through an interactive Gradio UI.
 
-`EDA` · `Random Forest` · `XGBoost` · `LightGBM`
+<code>ViT</code> <code>GPT-2</code> <code>Hugging Face</code> <code>PyTorch</code> <code>Gradio</code>
 
-[**→ Repository**](https://github.com/Rushi9234/Global-Air-Quality-Weather-Analytics)
+<a href="https://github.com/Rushi9234/AI-Image-Caption-Generator-ViT-GPT2"><img src="https://img.shields.io/badge/View%20Repo-06B6D4?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -135,85 +116,122 @@ End-to-end **data-science pipeline** on global air-quality & weather — EDA, re
 <tr>
 <td width="50%" valign="top">
 
-### 📊 E-Commerce Sales Intelligence
-Interactive **Power BI** BI platform — relational DAX model over retail data for profit, behavior & spatial-temporal insights.
+#### 🍔&nbsp; CraveConnect
+ML pipeline predicting **customer membership upgrades** — handles class imbalance with SMOTE and explains every prediction via SHAP.
 
-`Power BI` · `DAX` · `Power Query` · `Data Modeling`
+<code>XGBoost</code> <code>SHAP</code> <code>SMOTE</code> <code>Scikit-learn</code>
 
-[**→ Repository**](https://github.com/Rushi9234/Ecommerce-Sales-PowerBI)
+<a href="https://github.com/Rushi9234/Craveconnect-membership-prediction"><img src="https://img.shields.io/badge/View%20Repo-06B6D4?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 RBI Inflation & Monetary Policy
-Analysis of RBI **repo rates vs. inflation trends** — macro-economic data storytelling and policy-impact analysis.
+#### 🌍&nbsp; Global Air Quality Analytics
+End-to-end **data-science pipeline** on global air-quality & weather — EDA, regression, time-series forecasting and association-rule mining for PM2.5.
 
-`Python` · `Pandas` · `Time-Series` · `EDA`
+<code>EDA</code> <code>Random Forest</code> <code>XGBoost</code> <code>LightGBM</code>
 
-[**→ Repository**](https://github.com/Rushi9234/RBI-Inflation-Monetary-Policy-Analysis)
+<a href="https://github.com/Rushi9234/Global-Air-Quality-Weather-Analytics"><img src="https://img.shields.io/badge/View%20Repo-06B6D4?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 📊&nbsp; E-Commerce Sales Intelligence
+Interactive **Power BI** platform — relational DAX model over retail data surfacing profit, customer behavior and spatial-temporal insights.
+
+<code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Data Modeling</code>
+
+<a href="https://github.com/Rushi9234/Ecommerce-Sales-PowerBI"><img src="https://img.shields.io/badge/View%20Repo-06B6D4?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏦&nbsp; RBI Inflation & Monetary Policy
+Macro-economic analysis of **RBI repo rates vs. inflation** — data storytelling on policy impact across the rate cycle.
+
+<code>Python</code> <code>Pandas</code> <code>Time-Series</code> <code>EDA</code>
+
+<a href="https://github.com/Rushi9234/RBI-Inflation-Monetary-Policy-Analysis"><img src="https://img.shields.io/badge/View%20Repo-06B6D4?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ===================== TECH STACK ===================== -->
-## &nbsp;🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:06B6D4&height=3&width=100%25§ion=header" width="100%" />
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<h2>🛠️&nbsp;Tech Stack</h2>
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,mysql&perline=3" />
 
-**AI / ML / GenAI**
+</td>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <img height="48" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img height="48" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img height="48" src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge" />
-  <img height="48" src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
-  <img height="48" src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
-</p>
+**AI · ML · GenAI**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" />
+<br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat" />
+<img src="https://img.shields.io/badge/RAG-0F766E?style=flat" />
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat" />
+<img src="https://img.shields.io/badge/SHAP-111827?style=flat" />
+
+</td>
+<td valign="top" width="33%">
 
 **Web · Data · Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,mongodb,git,github,docker,aws,vscode" />
-</p>
-<p>
-  <img height="48" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img height="48" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img height="48" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img height="48" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,mongodb,git,github,docker,aws,vscode&perline=5" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 
----
+</td>
+</tr>
+</table>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## &nbsp;📊 GitHub Stats
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:06B6D4&height=3&width=100%25§ion=header" width="100%" />
+
+<!-- ═══════════════════ GITHUB STATS (Action-generated — see SETUP guide) ═══════════════════ -->
+<h2>📊&nbsp;GitHub Activity</h2>
+
+<!--
+  The cards below use the RELIABLE GitHub-Actions method described in the
+  SETUP guide. Until you run that Action, comment this block out or these
+  images will 404. Once the Action runs, uncomment and they load instantly.
 
 <div align="center">
+  <img height="160" src="./github-metrics.svg" alt="GitHub metrics" />
+  <br/>
+  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+-->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rushi9234&show_icons=true&count_private=true&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi9234&layout=compact&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0D1117" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi9234&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=c9d1d9&dates=8b949e" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rushi9234&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
+<div align="center">
+<i>📈 Live stats &amp; contribution snake load here once the GitHub Action is set up — see the setup guide.</i>
 </div>
 
----
+<br/>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-## &nbsp;🎯 Current Focus
+<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
+<h2>🎯&nbsp;Current Focus</h2>
 
 ```text
 ▹ GenAI · RAG pipelines · LangGraph agentic workflows
@@ -222,11 +240,15 @@ Analysis of RBI **repo rates vs. inflation trends** — macro-economic data stor
 ▹ Software Engineering fundamentals · DSA & Core CS
 ```
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:1E3A8A,100:0F172A&height=110&section=footer" width="100%" />
+<br/>
 
 <i>“Learning by building — one real-world project at a time.”</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,60:1E3A8A,100:0B1120&height=120&section=footer" width="100%" />
 
 </div>
