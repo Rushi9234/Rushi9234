@@ -295,9 +295,8 @@ Multi-city **spatial-temporal pipeline** — gradient-boosted PM2.5 regressors p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rushi9234&amp;show_icons=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=c9d1d9&amp;bg_color=0B1120&amp;cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi9234&amp;layout=compact&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=c9d1d9&amp;bg_color=0B1120&amp;langs_count=8&amp;cache_seconds=86400" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rushi9234&amp;theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rushi9234&amp;theme=github_dark" />
 <br/>
 
 <img src="https://raw.githubusercontent.com/Rushi9234/Rushi9234/output/github-contribution-grid-snake-dark.svg" width="100%" />
