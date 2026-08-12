@@ -47,7 +47,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif?raw=true&amp;s=100" width="28" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2500&amp;pause=600&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=640&amp;lines=Python+%7C+SQL+%7C+Java+%7C+C%2B%2B;LangGraph+%7C+LangChain+%7C+RAG+%7C+FAISS;PyTorch+%7C+YOLOv8+%7C+ViT+%7C+XGBoost;Pandas+%7C+Scikit-Learn+%7C+Power+BI+%7C+FastAPI" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2500&amp;pause=600&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=640&amp;lines=Python+%7C+SQL+%7C+Java+%7C+C%2B%2B;LangGraph+%7C+LangChain+%7C+RAG+%7C+FAISS;PyTorch+%7C+YOLOv8+%7C+ViT+%7C+XGBoost;Pandas+%7C+Scikit-Learn+%7C+Power+BI+%7C+FastAPI" />
 </div>
 
 <table>
