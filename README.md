@@ -24,7 +24,7 @@
 </div>
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
@@ -119,7 +119,7 @@ tools:     [Git, Docker, AWS, Jupyter]
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ FEATURED PROJECT (FLAGSHIP) ═══════════════════ -->
-## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="28"> Flagship Project
+## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="28"/> Flagship Project
 
 ### 📈 InvestEdge — AI Financial Intelligence Platform
 
@@ -347,7 +347,7 @@ class Rushikesh2026:
 
 <br/>
 
-<img src="https://img.shields.io/badge/Crafted_with_%F0%9F%92%99_by-Rushikesh-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Crafted_with_heart_by-Rushikesh-06B6D4?style=for-the-badge" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,55:1E3A8A,100:0B1120&amp;height=120&amp;section=footer" width="100%" />
 
