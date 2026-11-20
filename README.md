@@ -20,7 +20,7 @@
 
 Final-year **Computer Engineering** student at **MIT Academy of Engineering, Pune** (2023 to 2027). I build **LLM agents, retrieval and ranking systems**, and the **Python backends** around them, and I ship them live.
 
-Currently an **AI Product Intern at AMS3D Metrology**, building the voice interface and speech-to-text for **TrackMarg**, a live excavator management platform.
+Currently an **AI Product Intern at AMS3D Metrology**, building a voice interface and speech-to-text for an AI product.
 
 **Core focus**
 - **LLM agents and RAG:** LangGraph state machines, FAISS retrieval, intent routing, LLM evaluation
@@ -82,8 +82,6 @@ Stateful LLM agent built with **Gemini 2.5 Flash Lite, LangGraph and FastAPI**. 
 </td>
 <td width="50%" valign="top">
 
-
-
 ### 📈 InvestEdge
 **AI financial intelligence platform.** Multi-agent platform with a news RAG agent (FAISS), an async multi-key API client with automatic failover, and a FastAPI backend with a React frontend.
 
@@ -92,20 +90,10 @@ Stateful LLM agent built with **Gemini 2.5 Flash Lite, LangGraph and FastAPI**. 
 [![Live](https://img.shields.io/badge/Live-000?style=flat-square&amp;logo=vercel&amp;logoColor=white)](https://invest-edge-eight.vercel.app/) [![Code](https://img.shields.io/badge/Code-06B6D4?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/AB-1817/InvestEdge)
 
 </td>
-<td width="50%" valign="top">
-
-### 🍔 CraveConnect
-**Membership-upgrade classification pipeline.** SMOTE inside stratified folds, benchmarked ensembles reaching AUC-ROC 0.7969, SHAP-driven analysis.
-
-`XGBoost` · `SHAP` · `SMOTE` · `scikit-learn`
-
-[![Code](https://img.shields.io/badge/Code-06B6D4?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/Rushi9234/Craveconnect-membership-prediction)
-
-</td>
 </tr>
 </table>
 
-**Also:** [KiranaFlow AI](https://github.com/AB-1817/KiranaFlow-AI) (YOLOv8 inventory estimation, XGBoost credit scoring, SHAP) · [AI Image Caption Generator](https://github.com/Rushi9234/AI-Image-Caption-Generator-ViT-GPT2) (ViT + GPT-2) · [Global Air Quality Analytics](https://github.com/Rushi9234/Global-Air-Quality-Weather-Analytics) (PM2.5 regression, association rules)
+**Also:** [CraveConnect](https://github.com/Rushi9234/Craveconnect-membership-prediction) (membership-upgrade classification, SMOTE and gradient boosting, AUC-ROC 0.7969) · [KiranaFlow AI](https://github.com/AB-1817/KiranaFlow-AI) (YOLOv8 inventory estimation, XGBoost credit scoring, SHAP) · [AI Image Caption Generator](https://github.com/Rushi9234/AI-Image-Caption-Generator-ViT-GPT2) (ViT + GPT-2) · [Global Air Quality Analytics](https://github.com/Rushi9234/Global-Air-Quality-Weather-Analytics) (PM2.5 regression, association rules)
 
 <!-- ═══════════════════ EXPERIENCE + HONORS ═══════════════════ -->
 ## Experience &amp; Honors
@@ -114,7 +102,7 @@ Stateful LLM agent built with **Gemini 2.5 Flash Lite, LangGraph and FastAPI**. 
 
 | Company | Role | Focus |
 | --- | --- | --- |
-| **AMS3D Metrology** | AI Product Intern (Aug 2026 to present) | Voice interface and Whisper speech-to-text for TrackMarg |
+| **AMS3D Metrology** | AI Product Intern (Aug 2026 to present) | Voice interface and Whisper speech-to-text for an AI product |
 | **SS Trading Company** | Frontend Intern (Jul 2026 to Aug 2026) | React and TypeScript on Express.js and PostgreSQL, real-time updates with SSE |
 | **CodSoft** | AI / ML Engineering Intern | ViT + GPT-2 vision-to-text pipeline served with Gradio |
 
