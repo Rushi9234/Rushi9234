@@ -82,17 +82,7 @@ Stateful LLM agent built with **Gemini 2.5 Flash Lite, LangGraph and FastAPI**. 
 </td>
 <td width="50%" valign="top">
 
-### 🚜 TrackMarg (AMS3D internship)
-**AI-powered excavator management platform.** Built the voice-input interface (React, TypeScript) and worked on Marathi, Hindi and English speech-to-text with Whisper Large-v3, passing transcripts to the AI agent. Company project, so the code is private.
 
-`React` · `TypeScript` · `Whisper`
-
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&amp;logo=googlechrome&amp;logoColor=white)](https://trackmarg.in/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 📈 InvestEdge
 **AI financial intelligence platform.** Multi-agent platform with a news RAG agent (FAISS), an async multi-key API client with automatic failover, and a FastAPI backend with a React frontend.
